@@ -1,5 +1,5 @@
-# HAATCoin
-A smart contract made by kids, for kids.
+# HAATCoin 
+## A smart contract made by kids, for kids.
 
 What's good y'all. I'm Coyote, from Brooklyn. At the time of writing this, I am an intern at ConsenSys, the world's leading developer of
 DApps using the Etereum blockchain.
