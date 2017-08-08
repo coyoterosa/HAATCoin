@@ -3,13 +3,13 @@
 
 What's good y'all. I'm Coyote, from Brooklyn. At the time of writing this, I am an intern at ConsenSys, the world's leading developer of DApps using the Ethereum blockchain.
 
-In order to learn Solidity(the language that powers ethereum's smart contracts), I've created this project. At first it was something that I did to pass time. Now, it's a project that I've become really passionate about, and I work on it all time.
+In order to learn Solidity(the language that powers ethereum's smart contracts), I've created this project. At first, it was something that I did to pass time. Now, it's a project that I've become really passionate about, and I work on it all time.
 
 # Origins
 
-I think a good way for kids to get good grades is incentive. Doing work sucks, doing homework sucks, everything about school sucks; but it's important to get good grades. And who doesn't like prizes? And it's not like they're getting nice things for doing nothing; they'll have to earn these rewards by putting in the maximum amount of effort.
+I think a good way for kids to get good grades is an incentive. Doing work sucks, doing homework sucks, everything about school sucks; but it's important to get good grades. And who doesn't like prizes? And it's not like they're getting nice things for doing nothing; they'll have to earn these rewards by putting in the maximum amount of effort.
 
-This project comes from a desire to improve the education system in NYC. You see this system of incentivisation in schools in small towns and schools, but never in the NYCDOE. 
+This project comes from a desire to improve the education system in NYC. You see this system of incentivisation in schools in small towns and schools, but never in the NYCDOE.
 
 # How It Works
 
@@ -21,13 +21,15 @@ Every other address can be used by the administration to give to students. They'
 
 You might be saying, what if two students have the same name? Well, that's why the mapping is so effective. The administration themselves set a name to an address. *Mike Smith might have 0xca... while another Mike Smith might have 0xr4...
 
-* *At the moment this is still a problem. Yes the administration can set a name to a unique address, however the getAddress function returns the last initialized account. This has to be worked on...*
+* *At the moment this is still a problem. Yes, the administration can set a name to a unique address, however, the getAddress function returns the last initialized account. This has to be worked on...*
 
-Once a name and an address are locked in, they never change. Only the Admin can change them. 
+Once a name and an address are locked in, they never change. Only the Admin can change them.
 
-Every address is tied to a name, and every gpa is ties to an address. These are all variables that can be called. Tokens will be distribued based on your gpa.
+Every address is tied to a name, and every gpa is tied to an address. These are all variables that can be called. Tokens will be distributed based on your gpa.
+
 
 # Token Model
 
 Multiple Coins: As your gpa increases, the more tokens you get.
--This would be the best option in the sense that you'd only be receiving a unified token, not a token with different values as your average increases (which was the original model, but was too complicated imo.)
+-This would be the best option in the sense that you'd only be receiving a unified token, not a token with different values as your average increases (which was the original model but was too complicated imo.)
+
