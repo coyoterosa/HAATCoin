@@ -3,7 +3,7 @@
 
 What's good y'all. I'm Coyote, from Brooklyn. At the time of writing this, I am an intern at ConsenSys, the world's leading developer of DApps using the Ethereum blockchain.
 
-In order to learn Solidity(the language that powers ethereum's smart contracts), I've created this project. At first, it was something that I did to pass time. Now, it's a project that I've become really passionate about, and I work on it all time.
+In order to learn Solidity (the language that powers ethereum's smart contracts), I've created this project. At first, it was something that I did to pass time. Now, it's a project that I've become really passionate about, and I work on it all time.
 
 # Origins
 
